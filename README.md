@@ -7,8 +7,15 @@ Hey, I'm Arfat Ahmed. This is a python based project.  All my small and big proj
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+apt update
 ```
+```bash
+apt upgrade
+```
+```bash
+pip install python
+```
+
 
 ## Usage
 
