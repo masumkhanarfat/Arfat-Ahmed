@@ -18,8 +18,12 @@ pip install python
 ```bash
 git clone https://github.com/masumkhanarfat/Arfat-Ahmed
 ```
-
-
+```bash
+cd Arfat-Ahmed
+```
+```bash
+python3 arfat-ahmed.py
+```
 
 ## Usage
 
