@@ -1,6 +1,6 @@
 # Arfat Ahmed
 
-Foobar is a Python library for dealing with word pluralization.
+Hey, I'm Arfat Ahmed. This is a python based project.  All my small and big projects will be linked in it.
 
 ## Installation
 
