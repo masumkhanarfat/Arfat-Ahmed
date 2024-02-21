@@ -15,6 +15,10 @@ apt upgrade
 ```bash
 pip install python
 ```
+```bash
+git clone https://github.com/masumkhanarfat/Arfat-Ahmed
+```
+
 
 
 ## Usage
